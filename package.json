@@ -1,0 +1,33 @@
+{
+  "name": "conventional-changelog-hm",
+  "version": "1.0.0",
+  "description": "conventional-changelog preset",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hayes0724/changelog.git"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "preset"
+  ],
+  "files": [
+    "conventional-changelog.js",
+    "conventional-recommended-bump.js",
+    "index.js",
+    "parser-opts.js",
+    "writer-opts.js",
+    "templates"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayes0724/changelog/issues"
+  },
+  "homepage": "https://github.com/hayes0724/changelog"
+}
